@@ -1,0 +1,12 @@
+{
+  "name": "node-crash-course-2024",
+  "version": "1.0.0",
+  "description": "Node.js crash course code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch --env-file=.env server2.js"
+  },
+  "author": "Jessica Garcia",
+  "license": "ISC"
+}
